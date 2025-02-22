@@ -84,12 +84,12 @@ def monte_carlo_simulation(face_value, coupon_rate, years, current_price, iterat
     return prices
 
 st.set_page_config(
-    page_title="Fixed-Income Analysis Dashboard",
+    page_title="Bond Analysis Dashboard",
     page_icon="feature.png",  
     layout="wide",  
 )
 
-st.title('Fixed-Income Analysis Dashboard')
+st.title('Bond Analysis Dashboard')
 st.sidebar.header('Bond Parameters')
 face_value = st.sidebar.number_input('Face Value ($)', value=1000.00, format='%.2f')
 coupon_rate = st.sidebar.number_input('Coupon Rate (%)', value=5.00, format='%.2f') / 100
