@@ -30,7 +30,7 @@ The Monte Carlo module generates **thousands of bond price simulations**, provid
 - **Plotly** – Data visualization for histograms and charts.
 
 ## Sample Output
-![Sample](https://github.com/Real-VeerSandhu/Monte-Carlo-Simulation-App/blob/main/sim.png)
+![Sample](https://github.com/Real-VeerSandhu/Bond-Analysis-Dashboard/blob/main/demo.png)
 
 ## License
 This project is licensed under the MIT License – see the LICENSE file for details.
