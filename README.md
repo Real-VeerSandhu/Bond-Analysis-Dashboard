@@ -4,6 +4,7 @@
 
 This project is a **Fixed-Income Bond Analysis [Dashboard](https://bond-analysis-dashboard.streamlit.app/)** built using **Python, Streamlit, NumPy, SciPy, and Plotly**. The dashboard provides key insights into bond valuation, risk metrics, and price simulations using Monte Carlo methods.
 
+
 ## Features
 
 - **Yield to Maturity (YTM) Calculation** – Computes the bond's internal rate of return using numerical root-finding methods.
