@@ -1,4 +1,4 @@
-# Fixed-Income Bond Analysis Dashboard
+# Fixed-Income Analysis Dashboard
 
 ## Overview
 
